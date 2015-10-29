@@ -10,23 +10,23 @@
 		5F6910C21BDD4BF000B2D9BD /* AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F6910C11BDD4BF000B2D9BD /* AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F6910EA1BDD4C3E00B2D9BD /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F6910E91BDD4C3E00B2D9BD /* SystemConfiguration.framework */; };
 		5F69116C1BDD513700B2D9BD /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F69115A1BDD513700B2D9BD /* AFHTTPRequestOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F69116D1BDD513700B2D9BD /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69115B1BDD513700B2D9BD /* AFHTTPRequestOperation.m */; settings = {ASSET_TAGS = (); }; };
+		5F69116D1BDD513700B2D9BD /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69115B1BDD513700B2D9BD /* AFHTTPRequestOperation.m */; };
 		5F69116E1BDD513700B2D9BD /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F69115C1BDD513700B2D9BD /* AFHTTPRequestOperationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F69116F1BDD513700B2D9BD /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69115D1BDD513700B2D9BD /* AFHTTPRequestOperationManager.m */; settings = {ASSET_TAGS = (); }; };
+		5F69116F1BDD513700B2D9BD /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69115D1BDD513700B2D9BD /* AFHTTPRequestOperationManager.m */; };
 		5F6911701BDD513700B2D9BD /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F69115E1BDD513700B2D9BD /* AFHTTPSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F6911711BDD513700B2D9BD /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69115F1BDD513700B2D9BD /* AFHTTPSessionManager.m */; settings = {ASSET_TAGS = (); }; };
+		5F6911711BDD513700B2D9BD /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69115F1BDD513700B2D9BD /* AFHTTPSessionManager.m */; };
 		5F6911721BDD513700B2D9BD /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F6911601BDD513700B2D9BD /* AFNetworkReachabilityManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F6911731BDD513700B2D9BD /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911611BDD513700B2D9BD /* AFNetworkReachabilityManager.m */; settings = {ASSET_TAGS = (); }; };
+		5F6911731BDD513700B2D9BD /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911611BDD513700B2D9BD /* AFNetworkReachabilityManager.m */; };
 		5F6911741BDD513700B2D9BD /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F6911621BDD513700B2D9BD /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F6911751BDD513700B2D9BD /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911631BDD513700B2D9BD /* AFSecurityPolicy.m */; settings = {ASSET_TAGS = (); }; };
+		5F6911751BDD513700B2D9BD /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911631BDD513700B2D9BD /* AFSecurityPolicy.m */; };
 		5F6911761BDD513700B2D9BD /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F6911641BDD513700B2D9BD /* AFURLConnectionOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F6911771BDD513700B2D9BD /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911651BDD513700B2D9BD /* AFURLConnectionOperation.m */; settings = {ASSET_TAGS = (); }; };
+		5F6911771BDD513700B2D9BD /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911651BDD513700B2D9BD /* AFURLConnectionOperation.m */; };
 		5F6911781BDD513700B2D9BD /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F6911661BDD513700B2D9BD /* AFURLRequestSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F6911791BDD513700B2D9BD /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911671BDD513700B2D9BD /* AFURLRequestSerialization.m */; settings = {ASSET_TAGS = (); }; };
+		5F6911791BDD513700B2D9BD /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911671BDD513700B2D9BD /* AFURLRequestSerialization.m */; };
 		5F69117A1BDD513700B2D9BD /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F6911681BDD513700B2D9BD /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F69117B1BDD513700B2D9BD /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911691BDD513700B2D9BD /* AFURLResponseSerialization.m */; settings = {ASSET_TAGS = (); }; };
+		5F69117B1BDD513700B2D9BD /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6911691BDD513700B2D9BD /* AFURLResponseSerialization.m */; };
 		5F69117C1BDD513700B2D9BD /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F69116A1BDD513700B2D9BD /* AFURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F69117D1BDD513700B2D9BD /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69116B1BDD513700B2D9BD /* AFURLSessionManager.m */; settings = {ASSET_TAGS = (); }; };
+		5F69117D1BDD513700B2D9BD /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F69116B1BDD513700B2D9BD /* AFURLSessionManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -308,6 +308,7 @@
 				INSTALL_PATH = "@rpath";
 				LD_DYLIB_INSTALL_NAME = "@rpath/$(EXECUTABLE_PATH)";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = com.manuscriptsapp.AFNetworking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -327,6 +328,7 @@
 				INSTALL_PATH = "@rpath";
 				LD_DYLIB_INSTALL_NAME = "@rpath/$(EXECUTABLE_PATH)";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = com.manuscriptsapp.AFNetworking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
